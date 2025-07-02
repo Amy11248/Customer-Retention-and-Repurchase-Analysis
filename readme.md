@@ -47,6 +47,21 @@ The final dashboard delivers insights across four key pages:
 - **Google BigQuery**: SQL-based data cleaning and modeling
 - **Power BI**: Visualization and DAX measure construction
 - **Power Query**: Initial data exploration
+  
+---
+## 📊 Dashboard Preview
+
+### 1. Customer Overview
+![Page 1](Dashboard_Screenshot/Page1_customer_overview.png)
+
+### 2. Map
+![Page 2](Dashboard_Screenshot/Page2_map.png)
+
+### 3. Customer Lifecycle & Behavior Analysis
+![Page 3](Dashboard_Screenshot/Page3_customer_lifecycle.png)
+
+### 4. Customer Value & Repurchase Analysis
+![Page 4](Dashboard_Screenshot/Page4_customer_value&repurchase.png)
 
 ---
 
@@ -74,7 +89,6 @@ The final dashboard delivers insights across four key pages:
 - Priority should be placed on converting 'New' customers into 'Early' or 'Active' to improve long-term retention and engagement.
 
 ---
-
 ## 🧠 Skills Demonstrated
 
 - SQL Data Modeling
